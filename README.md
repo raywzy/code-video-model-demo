@@ -2,4 +2,4 @@
 
 Full demo video for [Code Video Model](https://code-video-model.github.io/).
 
-https://github.com/user-attachments/assets/4ad49af5-90e0-4e1c-a86d-63e9bdb524fd
+https://github.com/user-attachments/assets/d1a8594d-14fa-49aa-a101-03da77ed585f
